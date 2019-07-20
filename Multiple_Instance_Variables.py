@@ -19,4 +19,4 @@ my_data_shell = DataShell(x, y)
 print(my_data_shell.identifier)
 
 # Print my_data_shell.data
-print(my_data_shell.identifier)
+print(my_data_shell.data)
